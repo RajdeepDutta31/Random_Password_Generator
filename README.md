@@ -1,5 +1,6 @@
 # Random_Password_Generator
 Random Password Generator in Python GUI project for beginners.
+
 Modules required - Tkinter, Pyperclip, Random
 
 
